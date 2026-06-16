@@ -26,3 +26,5 @@ npm install
 MONGODB_URI=mongodb://localhost:27017/studentdb npm start
 npm test
 ```
+http://localhost:3000/health
+http://localhost:3000/api/students
